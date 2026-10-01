@@ -17,7 +17,7 @@ export const FloatingWhatsApp: React.FC<FloatingWhatsAppProps> = ({ onOpenCalcul
           <div className="hidden sm:flex items-center gap-3 bg-stone-900 text-white border border-stone-700 shadow-xl px-4 py-2.5 rounded-2xl text-xs max-w-xs animate-bounce">
             <div className="w-8 h-8 rounded-lg overflow-hidden ring-1 ring-amber-500/50 shadow-sm bg-stone-950 p-0.5 shrink-0">
               <img
-                src="/src/assets/images/rusdi_logo_1790864697216.jpg"
+                src="/logo.jpg"
                 alt="Rusdi Furniture Custom"
                 className="w-full h-full object-cover rounded"
                 referrerPolicy="no-referrer"

@@ -132,7 +132,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
               <div className="absolute top-3 sm:top-4 left-3 sm:left-4 flex items-center gap-2">
                 <div className="w-10 h-10 rounded-xl overflow-hidden ring-2 ring-amber-500/60 shadow-lg bg-stone-950 p-0.5 shrink-0">
                   <img
-                    src="/src/assets/images/rusdi_logo_1790864697216.jpg"
+                    src="/logo.jpg"
                     alt="Logo Rusdi Furniture Custom"
                     className="w-full h-full object-cover rounded-lg"
                     referrerPolicy="no-referrer"

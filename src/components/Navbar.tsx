@@ -134,7 +134,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCalculator, onOpenConsulta
           <a href="#hero" className="flex items-center gap-2.5 sm:gap-3 group shrink-0">
             <div className="w-10 h-10 sm:w-11 sm:h-11 rounded-xl overflow-hidden ring-2 ring-amber-500/50 shadow-md bg-stone-900 flex items-center justify-center p-0.5 shrink-0 group-hover:scale-105 group-hover:ring-amber-400 transition-all">
               <img 
-                src="/src/assets/images/rusdi_logo_1790864697216.jpg" 
+                src="/logo.jpg" 
                 alt="Logo Rusdi Furniture Custom" 
                 className="w-full h-full object-cover rounded-lg"
                 referrerPolicy="no-referrer"
@@ -244,7 +244,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCalculator, onOpenConsulta
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-xl overflow-hidden ring-1 ring-amber-500/40 shadow-sm bg-stone-900 p-0.5 shrink-0">
                     <img 
-                      src="/src/assets/images/rusdi_logo_1790864697216.jpg" 
+                      src="/logo.jpg" 
                       alt="Logo Rusdi Furniture Custom" 
                       className="w-full h-full object-cover rounded-lg"
                       referrerPolicy="no-referrer"

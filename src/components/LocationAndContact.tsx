@@ -73,7 +73,7 @@ export const LocationAndContact: React.FC = () => {
               <div className="flex items-center gap-4">
                 <div className="w-14 h-14 rounded-2xl overflow-hidden ring-2 ring-amber-500/50 shadow-md bg-stone-950 p-1 shrink-0">
                   <img
-                    src="/src/assets/images/rusdi_logo_1790864697216.jpg"
+                    src="/logo.jpg"
                     alt="Logo Rusdi Furniture Custom"
                     className="w-full h-full object-cover rounded-xl"
                     referrerPolicy="no-referrer"
