@@ -324,7 +324,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCalculator, onOpenConsulta
                   onOpenCalculator();
                   setMobileMenuOpen(false);
                 }}
-                className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-linear-to-r from-stone-800 to-stone-750 hover:from-stone-750 hover:to-stone-700 text-stone-100 border border-stone-700 font-bold text-sm shadow-sm active:scale-[0.99] transition-all cursor-pointer"
+                className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-gradient-to-r from-stone-800 to-stone-750 hover:from-stone-750 hover:to-stone-700 text-stone-100 border border-stone-700 font-bold text-sm shadow-sm active:scale-[0.99] transition-all cursor-pointer"
               >
                 <Calculator className="w-4 h-4 text-amber-400" />
                 <span>Simulasi & Hitung Biaya Custom</span>
