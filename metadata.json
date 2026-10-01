@@ -1,0 +1,6 @@
+{
+  "name": "Rusdi Furniture Custom",
+  "description": "Website resmi Rusdi Furniture Custom Babelan Bekasi - Spesialis Kitchen Set Minimalis, Apartemen Set, Wardrobe & Bed Set Plywood 18mm HPL Taco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
