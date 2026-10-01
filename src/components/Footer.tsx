@@ -27,7 +27,7 @@ export const Footer: React.FC = () => {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl overflow-hidden ring-2 ring-amber-500/40 shadow-md bg-stone-900 p-0.5 shrink-0">
                 <img 
-                  src="/src/assets/images/rusdi_logo_1790864697216.jpg" 
+                  src="/image.png" 
                   alt="Logo Rusdi Furniture Custom" 
                   className="w-full h-full object-cover rounded-lg"
                   referrerPolicy="no-referrer"
